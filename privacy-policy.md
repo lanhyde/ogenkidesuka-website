@@ -43,6 +43,7 @@
 
 ## 5. お問い合わせ
 
-本プライバシーポリシーに関するご質問、または収集されたデータに関する懸念などがございましたら、以下の開発者連絡先までお問い合わせください。
+本プライバシーポリシーに関するご質問、または収集されたデータに関する懸念などがございましたら、以下のメールアドレス、またはGitHubのIssueにてお問い合わせください。
 
-**Email:** **lanhaide@proton.me**
+- **Email:** **lanhaide@proton.me**
+- **GitHub Issues:** [https://github.com/lanhyde/ogenkidesuka-website/issues](https://github.com/lanhyde/ogenkidesuka-website/issues)

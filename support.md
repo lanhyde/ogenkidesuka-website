@@ -33,6 +33,7 @@
 
 ## お問い合わせ
 
-上記で解決しない問題や、不具合の報告、機能についてのご意見などがございましたら、以下のアドレスまでお問い合わせください：
+上記で解決しない問題や、不具合の報告、機能についてのご意見などがございましたら、以下のメールアドレス、またはGitHubのIssueにてお問い合わせください：
 
-**lanhaide@proton.me**
+- **Email:** **lanhaide@proton.me**
+- **GitHub Issues:** [https://github.com/lanhyde/ogenkidesuka-website/issues](https://github.com/lanhyde/ogenkidesuka-website/issues)
